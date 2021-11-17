@@ -16,3 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![solved.ac tier](http://mazassumnida.wtf/api/v2/generate_badge?boj=swchoi1997)](https://solved.ac/swchoi1997)
+
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=CSangwon" height="165">
