@@ -3,7 +3,6 @@
 <!--
 **CSangwon/CSangwon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj={swchoi1997})](https://solved.ac/{swchoi1997})
 
 Here are some ideas to get you started:
 
@@ -16,3 +15,4 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![solved.ac tier](http://mazassumnida.wtf/api/generate_badge?boj=swchoi1997)](https://solved.ac/swchoi1997)
